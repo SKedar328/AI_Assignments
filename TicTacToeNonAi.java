@@ -1,4 +1,4 @@
-package AI_Assignments;
+// package AI_Assignments;
 import java.util.Scanner;
 public class TicTacToeNonAi{
     public static int check(int arr[][]){
