@@ -16,4 +16,7 @@ Here are all the list of assignments I have added in the reposistory:
   <li>
     N-Queens
   </li>
+  <li>
+    Prolog
+  </li>
 </ul>
