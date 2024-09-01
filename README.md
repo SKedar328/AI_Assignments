@@ -1,4 +1,4 @@
-# AI_Assignments
+# Artificial Intelligence Assignments
 Assignments related to course subject Artificial Intelligence.
 <br>
 Here are all the list of assignments I have added in the reposistory:
